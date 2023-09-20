@@ -16,7 +16,7 @@ cta-text-3-url: index.html
 
 -- hero-1.hero-1: I am Ishan Mohammed Sabah
 cta-button-1: Resume
-link-1: file:///C:/Users/Ishan/Downloads/Resume.pdf
+link-1: https://www.resume.com/
 cta-button-2: Schedule Meeting
 link-2: https://calendly.com/
 cover: $assets.files.assets.image.jpg
